@@ -79,3 +79,7 @@ int randomInRange(int min, int max)
     int result;
     result=rand()%min+(max-min  + 1);
 }
+int featureFunction()
+{
+    return 0;
+}

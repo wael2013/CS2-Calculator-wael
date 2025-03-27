@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Git_Repo/CS2-Calculator-wael/build",
+  "command": "C:\\mingw\\bin\\g++.exe  @CMakeFiles/calculator.dir/includes_CXX.rsp -g -o CMakeFiles\\calculator.dir\\test.cpp.obj -c D:\\Git_Repo\\CS2-Calculator-wael\\test.cpp",
+  "file": "D:/Git_Repo/CS2-Calculator-wael/test.cpp",
+  "output": "CMakeFiles/calculator.dir/test.cpp.obj"
+},
+{
+  "directory": "D:/Git_Repo/CS2-Calculator-wael/build",
+  "command": "C:\\mingw\\bin\\g++.exe  @CMakeFiles/calculator.dir/includes_CXX.rsp -g -o CMakeFiles\\calculator.dir\\calculator.cpp.obj -c D:\\Git_Repo\\CS2-Calculator-wael\\calculator.cpp",
+  "file": "D:/Git_Repo/CS2-Calculator-wael/calculator.cpp",
+  "output": "CMakeFiles/calculator.dir/calculator.cpp.obj"
+}
+]

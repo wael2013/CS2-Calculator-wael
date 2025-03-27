@@ -9,4 +9,5 @@ int factorial(int n);
 int gcd(int x, int y);
 int lcm(int x, int y);
 int randomInRange(int min, int max);
+int featureFunction();
 #endif
